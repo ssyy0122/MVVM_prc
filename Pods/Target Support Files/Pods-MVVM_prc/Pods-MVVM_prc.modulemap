@@ -1,0 +1,6 @@
+framework module Pods_MVVM_prc {
+  umbrella header "Pods-MVVM_prc-umbrella.h"
+
+  export *
+  module * { export * }
+}
